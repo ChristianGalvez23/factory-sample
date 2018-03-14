@@ -1,0 +1,10 @@
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\bin\Debug\netcoreapp2.0\factoryPattern.deps.json
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\bin\Debug\netcoreapp2.0\factoryPattern.runtimeconfig.json
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\bin\Debug\netcoreapp2.0\factoryPattern.runtimeconfig.dev.json
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\bin\Debug\netcoreapp2.0\factoryPattern.dll
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\bin\Debug\netcoreapp2.0\factoryPattern.pdb
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\obj\Debug\netcoreapp2.0\factoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\obj\Debug\netcoreapp2.0\factoryPattern.AssemblyInfoInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\obj\Debug\netcoreapp2.0\factoryPattern.AssemblyInfo.cs
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\obj\Debug\netcoreapp2.0\factoryPattern.dll
+C:\Users\cgalv\Documents\Personal\Projects\factoryPattern\obj\Debug\netcoreapp2.0\factoryPattern.pdb
